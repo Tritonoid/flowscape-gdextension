@@ -3,20 +3,20 @@
 .godot/
 
 # Ignore library files but not the gdextension file
-demo/bin/*
-!demo/bin/android
-demo/bin/android/*
-!demo/bin/android/.gitkeep
-!demo/bin/linux
-demo/bin/linux/*
-!demo/bin/linux/.gitkeep
-!demo/bin/macos
-demo/bin/macos/*
-!demo/bin/macos/.gitkeep
-!demo/bin/windows
-demo/bin/windows/*
-!demo/bin/windows/.gitkeep
-!demo/bin/*.gdextension
+flowscape_demo/bin/*
+!flowscape_demo/bin/android
+flowscape_demo/bin/android/*
+!flowscape_demo/bin/android/.gitkeep
+!flowscape_demo/bin/linux
+flowscape_demo/bin/linux/*
+!flowscape_demo/bin/linux/.gitkeep
+!flowscape_demo/bin/macos
+flowscape_demo/bin/macos/*
+!flowscape_demo/bin/macos/.gitkeep
+!flowscape_demo/bin/windows
+flowscape_demo/bin/windows/*
+!flowscape_demo/bin/windows/.gitkeep
+!flowscape_demo/bin/*.gdextension
 .sconsign*.dblite
 
 # Ignore custom.py
@@ -56,3 +56,5 @@ compile_commands.json
 
 # Jetbrains
 .idea/
+
+
